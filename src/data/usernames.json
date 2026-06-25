@@ -1,0 +1,1207 @@
+{
+  "generatedAt": "2026-06-04",
+  "description": "Pre-generated fake Twitch-style usernames with persistent colors. Drop this file in data/usernames.json.",
+  "count": 300,
+  "users": [
+    {
+      "name": "ToxicWizard999",
+      "color": "#00FF7F"
+    },
+    {
+      "name": "Hugo64",
+      "color": "#B22222"
+    },
+    {
+      "name": "SilverPhoenix94",
+      "color": "#B22222"
+    },
+    {
+      "name": "Noah",
+      "color": "#FF4500"
+    },
+    {
+      "name": "Smurf_360",
+      "color": "#FF0000"
+    },
+    {
+      "name": "Cr1m50nW0lf59",
+      "color": "#DAA520"
+    },
+    {
+      "name": "Mega_Hunter",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "MegaPhoenix8",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "Rush158",
+      "color": "#FF4500"
+    },
+    {
+      "name": "WildStorm",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "Angel_Viper",
+      "color": "#FF69B4"
+    },
+    {
+      "name": "Carry_29",
+      "color": "#B22222"
+    },
+    {
+      "name": "Smurf47",
+      "color": "#9ACD32"
+    },
+    {
+      "name": "RoyalViper360",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "Mike123",
+      "color": "#B22222"
+    },
+    {
+      "name": "BenGhost999",
+      "color": "#2E8B57"
+    },
+    {
+      "name": "OG_Iron999",
+      "color": "#FF4500"
+    },
+    {
+      "name": "Dragon777",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "Ghost_Falcon",
+      "color": "#B22222"
+    },
+    {
+      "name": "Ben76",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "LucasViper10",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "TheRealBrutal60",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "xXKing360",
+      "color": "#B22222"
+    },
+    {
+      "name": "Pixel2009",
+      "color": "#9ACD32"
+    },
+    {
+      "name": "OwenDemon2009",
+      "color": "#B22222"
+    },
+    {
+      "name": "TheRealTiger98",
+      "color": "#9ACD32"
+    },
+    {
+      "name": "CrimsonBear",
+      "color": "#008000"
+    },
+    {
+      "name": "UltraHunter2009",
+      "color": "#9ACD32"
+    },
+    {
+      "name": "LagNoScope",
+      "color": "#9ACD32"
+    },
+    {
+      "name": "ShadowAngel96",
+      "color": "#DAA520"
+    },
+    {
+      "name": "Headshot_14",
+      "color": "#DAA520"
+    },
+    {
+      "name": "Mike2009",
+      "color": "#FF69B4"
+    },
+    {
+      "name": "PhoenixTV",
+      "color": "#FF0000"
+    },
+    {
+      "name": "Enzo44",
+      "color": "#0000FF"
+    },
+    {
+      "name": "Noah_2011",
+      "color": "#B22222"
+    },
+    {
+      "name": "Golden_Gamer",
+      "color": "#B22222"
+    },
+    {
+      "name": "Combo450",
+      "color": "#0000FF"
+    },
+    {
+      "name": "DrRapid33",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "Leo420",
+      "color": "#FF69B4"
+    },
+    {
+      "name": "xX_Savage_Xx",
+      "color": "#FF0000"
+    },
+    {
+      "name": "TheoLion",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "CosmicBear19",
+      "color": "#FF69B4"
+    },
+    {
+      "name": "Noah2012",
+      "color": "#FF4500"
+    },
+    {
+      "name": "KingTTV",
+      "color": "#FF0000"
+    },
+    {
+      "name": "UltraGhost46",
+      "color": "#1E90FF"
+    },
+    {
+      "name": "Crit_81",
+      "color": "#1E90FF"
+    },
+    {
+      "name": "Tom_2010",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "Combo70",
+      "color": "#1E90FF"
+    },
+    {
+      "name": "ShadowPanda2012",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "Enzo",
+      "color": "#2E8B57"
+    },
+    {
+      "name": "Crit_Sweaty",
+      "color": "#FF0000"
+    },
+    {
+      "name": "DrMad35",
+      "color": "#1E90FF"
+    },
+    {
+      "name": "IronAngel86",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "GoldenQueen2011",
+      "color": "#FF69B4"
+    },
+    {
+      "name": "Ghost777",
+      "color": "#FF7F50"
+    },
+    {
+      "name": "Remy_29",
+      "color": "#B22222"
+    },
+    {
+      "name": "RapidKnight69",
+      "color": "#FF4500"
+    },
+    {
+      "name": "Hawk_Fox",
+      "color": "#FF7F50"
+    },
+    {
+      "name": "RogueSniper",
+      "color": "#D2691E"
+    },
+    {
+      "name": "Hawk_Phoenix",
+      "color": "#00FF7F"
+    },
+    {
+      "name": "ItzGhost33",
+      "color": "#FF4500"
+    },
+    {
+      "name": "ItZGolden69",
+      "color": "#9ACD32"
+    },
+    {
+      "name": "Shark_Blade",
+      "color": "#9ACD32"
+    },
+    {
+      "name": "Lucky420",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "FrozenQueen2011",
+      "color": "#B22222"
+    },
+    {
+      "name": "MysticHunter7",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "Shadow007",
+      "color": "#008000"
+    },
+    {
+      "name": "PandaX",
+      "color": "#00FF7F"
+    },
+    {
+      "name": "Sam_9",
+      "color": "#008000"
+    },
+    {
+      "name": "Wild_Live",
+      "color": "#008000"
+    },
+    {
+      "name": "xX_Panda_Xx",
+      "color": "#2E8B57"
+    },
+    {
+      "name": "Ryan_2009",
+      "color": "#FF4500"
+    },
+    {
+      "name": "Pixel_x",
+      "color": "#9ACD32"
+    },
+    {
+      "name": "PhantomViper",
+      "color": "#FF69B4"
+    },
+    {
+      "name": "Iron_Samurai",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "Cr1m50nPh03n1x31",
+      "color": "#FF69B4"
+    },
+    {
+      "name": "RoyalRaven83",
+      "color": "#1E90FF"
+    },
+    {
+      "name": "xXDragon42",
+      "color": "#9ACD32"
+    },
+    {
+      "name": "CaptainKing2007",
+      "color": "#FF0000"
+    },
+    {
+      "name": "MrRaven2012",
+      "color": "#D2691E"
+    },
+    {
+      "name": "NoScope_123",
+      "color": "#FF0000"
+    },
+    {
+      "name": "Ben2012",
+      "color": "#DAA520"
+    },
+    {
+      "name": "Ultr4D3m0n2011",
+      "color": "#FF0000"
+    },
+    {
+      "name": "Nerf_4",
+      "color": "#DAA520"
+    },
+    {
+      "name": "Loot2011",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "QuietGhost98",
+      "color": "#2E8B57"
+    },
+    {
+      "name": "Mega_Bandit",
+      "color": "#FF4500"
+    },
+    {
+      "name": "Leo_2008",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "NoahShark85",
+      "color": "#00FF7F"
+    },
+    {
+      "name": "OG_Hawk6",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "Wolf777",
+      "color": "#9ACD32"
+    },
+    {
+      "name": "Hyper_Panda",
+      "color": "#1E90FF"
+    },
+    {
+      "name": "Brutal_Wolf",
+      "color": "#D2691E"
+    },
+    {
+      "name": "Fr0z3nR4v3n999",
+      "color": "#D2691E"
+    },
+    {
+      "name": "TheRoyal",
+      "color": "#FF0000"
+    },
+    {
+      "name": "PhantomDemon82",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "Respawn420",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "ToxicLion777",
+      "color": "#B22222"
+    },
+    {
+      "name": "TryHard2010",
+      "color": "#2E8B57"
+    },
+    {
+      "name": "Hugo",
+      "color": "#9ACD32"
+    },
+    {
+      "name": "TryHard_82",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "Clutch_Meta",
+      "color": "#FF7F50"
+    },
+    {
+      "name": "EpicBandit74",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "Crimson_Panda",
+      "color": "#B22222"
+    },
+    {
+      "name": "LoneBandit50",
+      "color": "#FF0000"
+    },
+    {
+      "name": "Dan",
+      "color": "#0000FF"
+    },
+    {
+      "name": "LuckyDr4g0n70",
+      "color": "#008000"
+    },
+    {
+      "name": "IronBear",
+      "color": "#DAA520"
+    },
+    {
+      "name": "Crit_Gank",
+      "color": "#FF4500"
+    },
+    {
+      "name": "Crit14",
+      "color": "#FF7F50"
+    },
+    {
+      "name": "LiamOwl98",
+      "color": "#FF69B4"
+    },
+    {
+      "name": "Falcon_Ghost",
+      "color": "#0000FF"
+    },
+    {
+      "name": "RapidReaper26",
+      "color": "#008000"
+    },
+    {
+      "name": "CosmicPanda360",
+      "color": "#0000FF"
+    },
+    {
+      "name": "xX_Mad_Xx",
+      "color": "#008000"
+    },
+    {
+      "name": "BigBandit123",
+      "color": "#D2691E"
+    },
+    {
+      "name": "Headshot_32",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "Raven_Dragon",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "Yanis2012",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "Royal420",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "Respawn360",
+      "color": "#0000FF"
+    },
+    {
+      "name": "NoahSniper99",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "RoguePilot2010",
+      "color": "#FF69B4"
+    },
+    {
+      "name": "TryHardMeta",
+      "color": "#B22222"
+    },
+    {
+      "name": "PhantomHD",
+      "color": "#2E8B57"
+    },
+    {
+      "name": "Brutal99",
+      "color": "#FF0000"
+    },
+    {
+      "name": "Turb0G4m3r2008",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "GG_2007",
+      "color": "#FF69B4"
+    },
+    {
+      "name": "xX_Ninja_Xx",
+      "color": "#D2691E"
+    },
+    {
+      "name": "KingViper2009",
+      "color": "#0000FF"
+    },
+    {
+      "name": "KingRaven2010",
+      "color": "#D2691E"
+    },
+    {
+      "name": "PixelSamurai59",
+      "color": "#B22222"
+    },
+    {
+      "name": "Carry58",
+      "color": "#0000FF"
+    },
+    {
+      "name": "Shark_Live",
+      "color": "#1E90FF"
+    },
+    {
+      "name": "T0x1cBl4d312",
+      "color": "#FF69B4"
+    },
+    {
+      "name": "Phoenix",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "RapidHunter2008",
+      "color": "#B22222"
+    },
+    {
+      "name": "Reaper_Knight",
+      "color": "#1E90FF"
+    },
+    {
+      "name": "xX_Knight_Xx",
+      "color": "#0000FF"
+    },
+    {
+      "name": "Theo2012",
+      "color": "#008000"
+    },
+    {
+      "name": "Mega_Sniper",
+      "color": "#FF7F50"
+    },
+    {
+      "name": "PilotTV",
+      "color": "#DAA520"
+    },
+    {
+      "name": "Alex777",
+      "color": "#FF69B4"
+    },
+    {
+      "name": "Loot_Clutch",
+      "color": "#FF69B4"
+    },
+    {
+      "name": "Fox_Knight",
+      "color": "#DAA520"
+    },
+    {
+      "name": "xX_Silver_Xx",
+      "color": "#008000"
+    },
+    {
+      "name": "BigCyber91",
+      "color": "#FF4500"
+    },
+    {
+      "name": "Nerf_69",
+      "color": "#9ACD32"
+    },
+    {
+      "name": "xX_Queen_Xx",
+      "color": "#B22222"
+    },
+    {
+      "name": "IronKnight80",
+      "color": "#FF4500"
+    },
+    {
+      "name": "LilBlade2012",
+      "color": "#0000FF"
+    },
+    {
+      "name": "Enzo2009",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "OG_Gamer777",
+      "color": "#FF4500"
+    },
+    {
+      "name": "Turb0Bl4d3",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "Fr0z3nF0x",
+      "color": "#FF69B4"
+    },
+    {
+      "name": "Angel777",
+      "color": "#FF7F50"
+    },
+    {
+      "name": "Smurf60",
+      "color": "#00FF7F"
+    },
+    {
+      "name": "xX_Bear_Xx",
+      "color": "#008000"
+    },
+    {
+      "name": "Hunter_Queen",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "TryHard76",
+      "color": "#FF4500"
+    },
+    {
+      "name": "Turb00wl777",
+      "color": "#FF69B4"
+    },
+    {
+      "name": "MysticFox58",
+      "color": "#FF69B4"
+    },
+    {
+      "name": "LeoKing58",
+      "color": "#FF7F50"
+    },
+    {
+      "name": "ItzRaven47",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "Dan999",
+      "color": "#FF0000"
+    },
+    {
+      "name": "M4dL10n2007",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "QueenLive",
+      "color": "#00FF7F"
+    },
+    {
+      "name": "Buff2007",
+      "color": "#008000"
+    },
+    {
+      "name": "CaptainIron74",
+      "color": "#2E8B57"
+    },
+    {
+      "name": "Sam_123",
+      "color": "#FF7F50"
+    },
+    {
+      "name": "MysticTTV",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "SmurfFrag",
+      "color": "#FF7F50"
+    },
+    {
+      "name": "ToxicShark5",
+      "color": "#0000FF"
+    },
+    {
+      "name": "BigDragon420",
+      "color": "#008000"
+    },
+    {
+      "name": "CosmicViper16",
+      "color": "#2E8B57"
+    },
+    {
+      "name": "xX_Demon_Xx",
+      "color": "#DAA520"
+    },
+    {
+      "name": "KingWolf85",
+      "color": "#B22222"
+    },
+    {
+      "name": "Rapid99",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "TheDemon2009",
+      "color": "#FF4500"
+    },
+    {
+      "name": "NoScope_2010",
+      "color": "#008000"
+    },
+    {
+      "name": "Viper_Knight",
+      "color": "#FF7F50"
+    },
+    {
+      "name": "Gank81",
+      "color": "#2E8B57"
+    },
+    {
+      "name": "Alex_10",
+      "color": "#FF0000"
+    },
+    {
+      "name": "Smurf360",
+      "color": "#FF0000"
+    },
+    {
+      "name": "KingSwift2012",
+      "color": "#9ACD32"
+    },
+    {
+      "name": "Pixel_Blade",
+      "color": "#B22222"
+    },
+    {
+      "name": "xX_Royal_Xx",
+      "color": "#FF69B4"
+    },
+    {
+      "name": "G0ld3nK1ng84",
+      "color": "#D2691E"
+    },
+    {
+      "name": "xX_Crimson_Xx",
+      "color": "#2E8B57"
+    },
+    {
+      "name": "RoyalWizard",
+      "color": "#B22222"
+    },
+    {
+      "name": "Loot_TryHard",
+      "color": "#1E90FF"
+    },
+    {
+      "name": "SwiftSamurai",
+      "color": "#FF7F50"
+    },
+    {
+      "name": "EliAngel007",
+      "color": "#0000FF"
+    },
+    {
+      "name": "Nico",
+      "color": "#FF4500"
+    },
+    {
+      "name": "xX_Blade_Xx",
+      "color": "#00FF7F"
+    },
+    {
+      "name": "GrimShark",
+      "color": "#2E8B57"
+    },
+    {
+      "name": "Owl_Hunter",
+      "color": "#FF0000"
+    },
+    {
+      "name": "Carry007",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "Brutal_Storm",
+      "color": "#FF0000"
+    },
+    {
+      "name": "R0gu3L10n",
+      "color": "#FF0000"
+    },
+    {
+      "name": "TheMad",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "KingGaming",
+      "color": "#FF69B4"
+    },
+    {
+      "name": "NoahStorm2010",
+      "color": "#FF69B4"
+    },
+    {
+      "name": "Crit98",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "Toxic420",
+      "color": "#DAA520"
+    },
+    {
+      "name": "PhantomBandit",
+      "color": "#1E90FF"
+    },
+    {
+      "name": "ItZBrutal777",
+      "color": "#1E90FF"
+    },
+    {
+      "name": "FinnRaven",
+      "color": "#FF0000"
+    },
+    {
+      "name": "Carry_2011",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "Raven_Samurai",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "SilverRider2007",
+      "color": "#9ACD32"
+    },
+    {
+      "name": "Hawk_Pilot",
+      "color": "#2E8B57"
+    },
+    {
+      "name": "Bandit_YT",
+      "color": "#008000"
+    },
+    {
+      "name": "Nerf360",
+      "color": "#FF7F50"
+    },
+    {
+      "name": "SilentShark87",
+      "color": "#0000FF"
+    },
+    {
+      "name": "MaxWizard56",
+      "color": "#FF4500"
+    },
+    {
+      "name": "Alex83",
+      "color": "#DAA520"
+    },
+    {
+      "name": "Gamer99",
+      "color": "#FF7F50"
+    },
+    {
+      "name": "CyberYT",
+      "color": "#2E8B57"
+    },
+    {
+      "name": "LuckyT1g3r",
+      "color": "#FF4500"
+    },
+    {
+      "name": "Headshot_007",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "Owen",
+      "color": "#DAA520"
+    },
+    {
+      "name": "Headshot_85",
+      "color": "#008000"
+    },
+    {
+      "name": "Phoenix_Owl",
+      "color": "#FF4500"
+    },
+    {
+      "name": "Falcon_Ninja",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "Viper_Fox",
+      "color": "#2E8B57"
+    },
+    {
+      "name": "Phoenix_Demon",
+      "color": "#D2691E"
+    },
+    {
+      "name": "Rapid69",
+      "color": "#FF0000"
+    },
+    {
+      "name": "ZacBear",
+      "color": "#1E90FF"
+    },
+    {
+      "name": "Crit_2009",
+      "color": "#D2691E"
+    },
+    {
+      "name": "Cyber_Lion",
+      "color": "#9ACD32"
+    },
+    {
+      "name": "HunterLive",
+      "color": "#008000"
+    },
+    {
+      "name": "RoyalFalcon",
+      "color": "#FF7F50"
+    },
+    {
+      "name": "Kai_86",
+      "color": "#DAA520"
+    },
+    {
+      "name": "Owl_Tiger",
+      "color": "#9ACD32"
+    },
+    {
+      "name": "PhantomX",
+      "color": "#FF4500"
+    },
+    {
+      "name": "xX_Lone_Xx",
+      "color": "#FF7F50"
+    },
+    {
+      "name": "TurboDemon5",
+      "color": "#2E8B57"
+    },
+    {
+      "name": "KingCrimson",
+      "color": "#DAA520"
+    },
+    {
+      "name": "Frozen_Panda",
+      "color": "#FF4500"
+    },
+    {
+      "name": "Rush_76",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "TheRapid77",
+      "color": "#008000"
+    },
+    {
+      "name": "Nico360",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "Knight2011",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "Jake_53",
+      "color": "#1E90FF"
+    },
+    {
+      "name": "TTV_Blade76",
+      "color": "#B22222"
+    },
+    {
+      "name": "MysticBandit41",
+      "color": "#0000FF"
+    },
+    {
+      "name": "Rapid_Ninja",
+      "color": "#0000FF"
+    },
+    {
+      "name": "RapidWizard",
+      "color": "#B22222"
+    },
+    {
+      "name": "BrutalAngel2008",
+      "color": "#0000FF"
+    },
+    {
+      "name": "xX_Hawk_Xx",
+      "color": "#FF69B4"
+    },
+    {
+      "name": "xX_Dragon_Xx",
+      "color": "#D2691E"
+    },
+    {
+      "name": "W1ldR4v3n",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "LilRogue42",
+      "color": "#D2691E"
+    },
+    {
+      "name": "Jake",
+      "color": "#FF0000"
+    },
+    {
+      "name": "Nico2007",
+      "color": "#B22222"
+    },
+    {
+      "name": "GrimShark84",
+      "color": "#FF0000"
+    },
+    {
+      "name": "Fr0z3nP4nd448",
+      "color": "#DAA520"
+    },
+    {
+      "name": "Leo999",
+      "color": "#DAA520"
+    },
+    {
+      "name": "xX_Shadow_Xx",
+      "color": "#008000"
+    },
+    {
+      "name": "Sweaty99",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "Pixel_Panda",
+      "color": "#1E90FF"
+    },
+    {
+      "name": "Pilot420",
+      "color": "#B22222"
+    },
+    {
+      "name": "Meta_64",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "Eli",
+      "color": "#0000FF"
+    },
+    {
+      "name": "BrutalHunter360",
+      "color": "#0000FF"
+    },
+    {
+      "name": "Silent75",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "CyberPanda2011",
+      "color": "#2E8B57"
+    },
+    {
+      "name": "Finn71",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "LoneBlade31",
+      "color": "#FF0000"
+    },
+    {
+      "name": "Ryan15",
+      "color": "#2E8B57"
+    },
+    {
+      "name": "Pog81",
+      "color": "#0000FF"
+    },
+    {
+      "name": "Brut4lQu33n777",
+      "color": "#FF0000"
+    },
+    {
+      "name": "AlexLion999",
+      "color": "#1E90FF"
+    },
+    {
+      "name": "Loot_837",
+      "color": "#00FF7F"
+    },
+    {
+      "name": "CarryTryHard",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "xX_Pixel_Xx",
+      "color": "#FF7F50"
+    },
+    {
+      "name": "xX_Viper_Xx",
+      "color": "#0000FF"
+    },
+    {
+      "name": "54v4g3N1nj42008",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "GoldenBear85",
+      "color": "#1E90FF"
+    },
+    {
+      "name": "xX_Wolf_Xx",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "Dan_69",
+      "color": "#FF0000"
+    },
+    {
+      "name": "CaptainQueen69",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "Liam123",
+      "color": "#9ACD32"
+    },
+    {
+      "name": "Gamer_YT",
+      "color": "#00FF7F"
+    },
+    {
+      "name": "LagSmurf",
+      "color": "#00FF7F"
+    },
+    {
+      "name": "Falcon_Shark",
+      "color": "#DAA520"
+    },
+    {
+      "name": "Clutch14",
+      "color": "#008000"
+    },
+    {
+      "name": "MrGrim420",
+      "color": "#FF0000"
+    },
+    {
+      "name": "SwiftGhost59",
+      "color": "#FF4500"
+    },
+    {
+      "name": "RapidShark21",
+      "color": "#9ACD32"
+    },
+    {
+      "name": "SamuraiTV",
+      "color": "#D2691E"
+    },
+    {
+      "name": "Gank_123",
+      "color": "#5F9EA0"
+    },
+    {
+      "name": "RogueNinja99",
+      "color": "#2E8B57"
+    },
+    {
+      "name": "BigPanda2009",
+      "color": "#FF4500"
+    },
+    {
+      "name": "Gamer_Shark",
+      "color": "#FF4500"
+    },
+    {
+      "name": "LionHD",
+      "color": "#B22222"
+    },
+    {
+      "name": "MrTiger15",
+      "color": "#B22222"
+    },
+    {
+      "name": "FrozenYT",
+      "color": "#2E8B57"
+    },
+    {
+      "name": "54v4g3Ph03n1x",
+      "color": "#2E8B57"
+    }
+  ]
+}

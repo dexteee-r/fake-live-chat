@@ -1,0 +1,63 @@
+{
+  "name": "fake-chat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fake Twitch chat — generates a deterministic transparent ProRes 4444 .mov (alpha) for editing in Premiere Pro.",
+  "author": "Fake Chat",
+  "main": "app/electron/main.cjs",
+  "scripts": {
+    "gui": "electron app/electron/main.cjs",
+    "app": "node app/server.mjs",
+    "studio": "remotion studio",
+    "render": "node app/render.mjs",
+    "build:ui": "vite build --config app/frontend/vite.config.mjs",
+    "prebundle": "node app/prebundle.mjs",
+    "dist:win": "npm run build:ui && npm run prebundle && electron-builder --win"
+  },
+  "dependencies": {
+    "@remotion/renderer": "^4.0.482",
+    "express": "^5.2.1",
+    "remotion": "^4.0.482"
+  },
+  "devDependencies": {
+    "@remotion/bundler": "^4.0.482",
+    "@remotion/cli": "^4.0.482",
+    "@remotion/google-fonts": "^4.0.482",
+    "@remotion/player": "^4.0.482",
+    "@remotion/zod-types": "^4.0.482",
+    "@types/react": "18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^6.0.3",
+    "electron": "^42.5.0",
+    "electron-builder": "^26.15.3",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "typescript": "5.6.3",
+    "vite": "^8.1.0",
+    "zod": "4.3.6"
+  },
+  "build": {
+    "appId": "com.fakechat.app",
+    "productName": "Fake Chat",
+    "asar": false,
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "app/**/*",
+      "assets/**/*",
+      "package.json"
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "assets/fake-chat.ico"
+    },
+    "nsis": {
+      "oneClick": true,
+      "perMachine": false,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "Fake Chat"
+    }
+  }
+}

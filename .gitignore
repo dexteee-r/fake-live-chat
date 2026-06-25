@@ -1,0 +1,10 @@
+node_modules/
+output/
+.remotion/
+release/
+app/frontend/dist/
+app/remotion-bundle/
+tools/_frame.png
+tools/_alpha_proof.png
+tools/_ui.png
+*.log

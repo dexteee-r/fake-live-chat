@@ -1,0 +1,9 @@
+# Normalize text files to LF inside the repository.
+* text=auto eol=lf
+
+# Windows batch launchers must stay CRLF when checked out.
+*.bat text eol=crlf
+
+# Treat these as binary (no line-ending conversion, no diff).
+*.ico binary
+*.png binary

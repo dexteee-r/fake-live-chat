@@ -1,0 +1,93 @@
+/*
+ * chat.css — Faithful Twitch dark-theme chat rendering, ported from the web
+ * overlay for visual parity. Layout/positioning is handled by the React
+ * composition (Remotion), so only the line/username/badge/emote styling lives
+ * here. --font-scale is set per render from the props.
+ */
+
+.chat {
+  --font-scale: 1;
+  --twitch-text: #efeff1;
+  --twitch-timestamp: #adadb8;
+  --base-font-size: 13px;
+
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end; /* messages glued to the bottom */
+  overflow: hidden; /* old lines scroll off the top */
+  padding: 0 0 6px 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Animated wrapper row (grid 0fr -> 1fr drives the smooth upward push). */
+.chat-row {
+  flex: 0 0 auto;
+}
+
+.chat-line {
+  padding: 5px 20px;
+  font-size: calc(var(--base-font-size) * var(--font-scale));
+  line-height: 1.45;
+  color: var(--twitch-text);
+  word-wrap: break-word;
+  overflow-wrap: anywhere;
+}
+
+.timestamp {
+  color: var(--twitch-timestamp);
+  font-size: calc(12px * var(--font-scale));
+  margin-right: 5px;
+  vertical-align: baseline;
+}
+
+.username {
+  font-weight: 700;
+}
+
+.colon {
+  color: var(--twitch-text);
+  font-weight: 700;
+  margin-right: 1px;
+}
+
+.message {
+  font-weight: 400;
+}
+
+/* Badges (custom SVG, 18x18) — scale with the font. */
+.badge {
+  display: inline-flex;
+  width: calc(18px * var(--font-scale));
+  height: calc(18px * var(--font-scale));
+  margin-right: 3px;
+  vertical-align: middle;
+  position: relative;
+  top: -1px;
+}
+.badge svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+/* Emotes. */
+.emote {
+  height: calc(28px * var(--font-scale));
+  vertical-align: middle;
+  margin: -4px 2px;
+}
+.emote-emoji {
+  font-size: calc(20px * var(--font-scale));
+  line-height: 1;
+  vertical-align: middle;
+}
+
+/* Optional dark outline for readability over any footage. */
+.chat.with-outline .chat-line {
+  text-shadow:
+    0 0 2px rgba(0, 0, 0, 0.95),
+    1px 1px 2px rgba(0, 0, 0, 0.95),
+    -1px 1px 2px rgba(0, 0, 0, 0.7);
+}
