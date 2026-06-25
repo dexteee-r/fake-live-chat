@@ -1,6 +1,6 @@
 {
   "name": "fake-chat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Fake Twitch chat — generates a deterministic transparent ProRes 4444 .mov (alpha) for editing in Premiere Pro.",
   "author": "Fake Chat",
